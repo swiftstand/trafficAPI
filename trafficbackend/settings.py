@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-s4ccw#vucykkkf)j8gs!suu5kxoqi9@oc3wa3g)g34qji3#ccb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.210.56','trafficnaija.herokuapp.com']
+ALLOWED_HOSTS = ['trafficbackend.pythonanywhere.com']
 
 
 # Application definition
